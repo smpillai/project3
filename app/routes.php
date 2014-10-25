@@ -44,6 +44,7 @@ Route::post('/loremgen', function()
 			$content .= '<p>' . $p . '</p>';            
 		}
   //      die($content);
+        //comment
 	}
 	
 
